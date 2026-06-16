@@ -28,7 +28,6 @@ Each project follows a standard ML project layout:
 ├── data/              # Raw/processed datasets (not tracked in git)
 ├── notebooks/         # Original exploratory Jupyter notebook
 ├── src/               # Python script version of the analysis/pipeline
-├── models/            # Saved/trained model artifacts (not tracked in git)
 └── requirements.txt   # Python dependencies
 ```
 
